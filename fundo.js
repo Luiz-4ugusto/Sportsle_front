@@ -1,11 +1,11 @@
 document.addEventListener("DOMContentLoaded", () => {
   let currentIndex = 0; // Índice atual da imagem
   const images = [
-    "img/bask.png",
-    "img/foot.png",
-    "img/surf.png",
-    "img/tennis.png",
-    "img/volei.png",
+    "bask.png",
+    "foot.png",
+    "surf.png",
+    "tennis.png",
+    "volei.png",
   ];
   const bodyElement = document.body; // Alvo para alterar o background
 
