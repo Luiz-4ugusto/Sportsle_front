@@ -151,7 +151,7 @@ nav ul li a {
 
 /* Contatos */
 .contados {
-  background: #276df8;
+  background: #204dba;
   height: 60px;
   width: 100%;
   display: flex;
@@ -238,4 +238,13 @@ nav ul li a {
   .contados {
     gap: 20px;
   }
+}
+
+#jogo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px auto; /* Centraliza horizontalmente */
+  text-align: center;
 }
